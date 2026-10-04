@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![Android APK](https://img.shields.io/badge/Download%20APK-neurovoice.apk-brightgreen?logo=android&logoColor=white)](https://github.com/rakesh20079/NueroVoice1729/raw/main/application/neurovoice.apk)
 
-> **Clinical-grade neurological biomarker screening system powered by hybrid quantum machine learning.**  
+> ** Neurological biomarker screening system powered by hybrid quantum machine learning.**  
 > Analyzes sustained vowel phonations (`/a/`) to detect early vocal stability perturbations, micro-tremor incidence, and clinical dysphonia markers using deep neural networks and 8-qubit Variational Quantum Circuits (PennyLane VQC).
 
 ---
